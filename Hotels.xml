@@ -45,9 +45,9 @@
 
   <!-- Hotel 4 -->
   <Hotel>
-    <Name>The Plaza</Name>
-    <Phone>212-759-3000</Phone>
-    <Phone>888-850-0909</Phone>
+    <Name>ABC Restaurant and Bar</Name>
+    <Phone>212-759-3010</Phone>
+    <Phone>888-850-0919</Phone>
     <Address NearestAirport="LGA">
       <Number>768</Number>
       <Street>5th Ave</Street>
@@ -59,35 +59,35 @@
 
   <!-- Hotel 5 -->
   <Hotel Rating="4.8">
-    <Name>Four Seasons Chicago</Name>
-    <Phone>312-280-8800</Phone>
-    <Address NearestAirport="ORD">
+    <Name>Nalapani Hotels</Name>
+    <Phone>912-280-8800</Phone>
+    <Address NearestAirport="DED">
       <Number>120</Number>
-      <Street>E Delaware Pl</Street>
-      <City>Chicago</City>
-      <State>IL</State>
-      <Zip>60611</Zip>
+      <Street>Nalapani Chowk</Street>
+      <City>Dehradun</City>
+      <State>Uk</State>
+      <Zip>248001</Zip>
     </Address>
   </Hotel>
 
   <!-- Hotel 6 -->
   <Hotel>
-    <Name>The Langham</Name>
-    <Phone>312-923-9988</Phone>
+    <Name>Proud Pahadi</Name>
+    <Phone>912-923-9989</Phone>
     <Address NearestAirport="MDW">
       <Number>330</Number>
-      <Street>N Wabash Ave</Street>
-      <City>Chicago</City>
-      <State>IL</State>
-      <Zip>60611</Zip>
+      <Street>Bithoria</Street>
+      <City>Haldwani</City>
+      <State>UK</State>
+      <Zip>263141</Zip>
     </Address>
   </Hotel>
 
   <!-- Hotel 7 -->
   <Hotel Rating="4.7">
-    <Name>The Beverly Hills Hotel</Name>
-    <Phone>310-276-2251</Phone>
-    <Phone>800-283-0401</Phone>
+    <Name>Debatable Hotel</Name>
+    <Phone>810-276-1251</Phone>
+    <Phone>900-283-1401</Phone>
     <Address NearestAirport="LAX">
       <Number>9641</Number>
       <Street>Sunset Boulevard</Street>
@@ -99,8 +99,8 @@
 
   <!-- Hotel 8 -->
   <Hotel>
-    <Name>The Ritz-Carlton</Name>
-    <Phone>415-296-7465</Phone>
+    <Name>Asphalt Bar</Name>
+    <Phone>815-896-8465</Phone>
     <Address NearestAirport="SFO">
       <Number>600</Number>
       <Street>Stockton St</Street>
@@ -112,14 +112,14 @@
 
   <!-- Hotel 9 -->
   <Hotel Rating="4.7">
-    <Name>The Venetian</Name>
-    <Phone>702-414-1000</Phone>
-    <Address NearestAirport="LAS">
+    <Name>The Taj</Name>
+    <Phone>912-424-1234</Phone>
+    <Address NearestAirport="BOM">
       <Number>3355</Number>
-      <Street>S Las Vegas Blvd</Street>
-      <City>Las Vegas</City>
-      <State>NV</State>
-      <Zip>89109</Zip>
+      <Street>Churchgate</Street>
+      <City>Mumbai</City>
+      <State>Maharashtra</State>
+      <Zip>400001</Zip>
     </Address>
   </Hotel>
 
@@ -138,9 +138,9 @@
 
   <!-- Hotel 11 -->
   <Hotel>
-    <Name>Fairmont Olympic Hotel</Name>
-    <Phone>206-621-1700</Phone>
-    <Phone>800-257-7544</Phone>
+    <Name>XYZ</Name>
+    <Phone>111-621-1700</Phone>
+    <Phone>999-257-7544</Phone>
     <Address NearestAirport="SEA">
       <Number>411</Number>
       <Street>University St</Street>
